@@ -7,5 +7,12 @@ Requerimientos:
  - Habilitar un endpoint para consultar todos los estudiantes que tengan credits mayor a 500.
   
 # Diseño de componentes
+```mermaid
+  graph TD;
+      A-->B;
+      A-->C;
+      B-->D;
+      C-->D;
+```
 # Dependencias
 # Funcionamiento del API
