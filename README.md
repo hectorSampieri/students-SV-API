@@ -42,4 +42,4 @@ Para cumplir los requerimientos se diseñaron 3 clases
 
 # Documentación del API
 En esta liga se encuentra la documentación del API en formato HTML.
-[link](https://github.com/hectorSampieri/students-SV-API/tree/master/documentation/docs)
+[link](https://github.com/hectorSampieri/students-SV-API/tree/master/docs)
