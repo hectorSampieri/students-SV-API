@@ -33,4 +33,9 @@ Para cumplir los requerimientos se diseñaron 3 clases
 
 ```
 # Dependencias
+<ul>
+  <li>JEST</li>
+  <li>Eslint</li>
+  <li>Express</li>
+</ul>
 # Funcionamiento del API
