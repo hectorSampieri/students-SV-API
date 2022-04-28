@@ -7,7 +7,7 @@ Requerimientos:
  - Habilitar un endpoint para consultar todos los estudiantes que tengan credits mayor a 500.
   
 # Diseño de componentes
-Se ha diseñado un API con 3 endpoints diferentes, para ello se ocupa un divide el flujo donde el componente Server es el encargado de recibir las peticiones y direccionarlas al Controlador StudentController que a su vez hace uso del Servicio StudentService que utiliza un componente Reader para leer el archivo con los datos en formato JSON.
+Se ha diseñado un API con 3 endpoints diferentes, para ello se ocupa un divide el flujo donde el componente *Server* es el encargado de recibir las peticiones y direccionarlas al Controlador *StudentController* que a su vez hace uso del Servicio *StudentService* que utiliza un componente *Reader* para leer el archivo con los datos en formato JSON.
 ```mermaid
 flowchart TD
     A[Server] --> B[StudentController]
