@@ -7,27 +7,5 @@ Requerimientos:
  - Habilitar un endpoint para consultar todos los estudiantes que tengan credits mayor a 500.
   
 # Diseño de componentes
-classDiagram
-      Animal <|-- Duck
-      Animal <|-- Fish
-      Animal <|-- Zebra
-      Animal : +int age
-      Animal : +String gender
-      Animal: +isMammal()
-      Animal: +mate()
-      class Duck{
-          +String beakColor
-          +swim()
-          +quack()
-      }
-      class Fish{
-          -int sizeInFeet
-          -canEat()
-      }
-      class Zebra{
-          +bool is_wild
-          +run()
-      }
-
 # Dependencias
 # Funcionamiento del API
