@@ -32,6 +32,17 @@ Para cumplir los requerimientos se diseñaron 3 clases
       }
 
 ```
+## StudentController
+- static getAllStudents() .- Obtiene la lista de todos los estudiantes.
+- static getMailWithCertification() .- Obtiene la lista de correos de los estudiantes con certificacion (haveCertification).
+- static getStudentsByCredits(credits) .- Obtiene la lista de estudiantes con creditos mayores a *credits*.
+## StudentService
+- static getAllStudents(students) .- Obtiene la lista de todos los estudiantes del arreglo de objeto *students*.
+- staticgetMailWithCertification(students) .- Obtiene la lista de correos de los estudiantes con certificacion (haveCertification) del arreglo de objeto *students*.
+- static getStudentsByCredits(students,credits) .- Obtiene la lista de estudiantes con creditos mayores a *credits* del arreglo de objeto *students*.
+## Reader
+- static readJsonFile .- Lee un archivo JSON y regresa los datos en un objeto para poder ser consultado.
+
 # Dependencias
 <ul>
   <li>JEST</li>
