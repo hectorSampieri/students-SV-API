@@ -37,5 +37,10 @@ Para cumplir los requerimientos se diseñaron 3 clases
   <li>JEST</li>
   <li>Eslint</li>
   <li>Express</li>
+  <li>Apidoc</li>
 </ul>
+
 # Funcionamiento del API
+
+# Documentación del API
+En esta liga se encuentra la documentación del API en formato HTML.
