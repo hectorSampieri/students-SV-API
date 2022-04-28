@@ -3,7 +3,7 @@ Visual Partner-Ship te ha asignado el siguiente proyecto:
 Requerimientos:
 
  - Habilitar un endpoint para consultar todos los estudiantes con todos sus campos.
- - Habilitar un endpoint para consultar los emails de todos los estudiantes que tengan certificación haveCertification.
+ - Habilitar un endpoint para consultar los emails de todos los estudiantes que tengan certificación *haveCertification*.
  - Habilitar un endpoint para consultar todos los estudiantes que tengan credits mayor a 500.
   
 # Diseño de componentes
@@ -51,6 +51,11 @@ Para cumplir los requerimientos se diseñaron 3 clases
   <li>Apidoc</li>
 </ul>
 
+# End points
+- */v1/students* : Lista la información completa de todos los estudiantes.
+- */v1/studentsCertificated* : Lista los correos de los alumnos certificados.
+- */v1/studentsWithCredits* : Lista la información completa de los alumnos que tengan mas de 500 créditos.
+
 # Documentación del API
-En esta liga se encuentra la documentación del API en formato HTML.
+En esta liga se encuentra la documentación de como utilizar los endpoints del API y ejemplos de uso.
 [link](https://hectorsampieri.github.io/students-SV-API/)
