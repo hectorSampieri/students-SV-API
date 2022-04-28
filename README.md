@@ -17,25 +17,18 @@ flowchart TD
 Para cumplir los requerimientos se diseñaron 3 clases
 ```mermaid
  classDiagram
-      Animal <|-- Duck
-      Animal <|-- Fish
-      Animal <|-- Zebra
-      Animal : +int age
-      Animal : +String gender
-      Animal: +isMammal()
-      Animal: +mate()
-      class Duck{
-          +String beakColor
-          +swim()
-          +quack()
+     class StudentController{
+          +static getAllStudents()
+          +static getMailWithCertification()
+          +static getStudentsByCredits(credits)
       }
-      class Fish{
-          -int sizeInFeet
-          -canEat()
+      class StudentService{
+          +static getAllStudents(students)
+          +static getMailWithCertification(students)
+          +static getStudentsByCredits(students,credits)
       }
-      class Zebra{
-          +bool is_wild
-          +run()
+      class Reader{
+          +static readJsonFile(file)
       }
 
 ```
