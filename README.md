@@ -51,6 +51,15 @@ Para cumplir los requerimientos se diseñaron 3 clases
   <li>Apidoc</li>
 </ul>
 
+# Instalación
+npm install
+
+# Para ejecutarlo
+npm run server
+
+# Acceder al servidor para ver la funcionalidad
+Desde el navegador abrir la URL:  localhost:3000 con cualquiera de los endpoints.
+
 # End points
 - */v1/students* : Lista la información completa de todos los estudiantes.
 - */v1/studentsCertificated* : Lista los correos de los alumnos certificados.
