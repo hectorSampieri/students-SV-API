@@ -54,7 +54,12 @@ Para cumplir los requerimientos se diseñaron 3 clases
 # Instalación
 npm install
 
-# Para ejecutarlo
+# Para ejecutar pruebas unitarias
+npm run test
+# Actualizar documentación 
+npm run apidoc
+
+# Para ejecutar el proyecto
 npm run server
 
 # Acceder al servidor para ver la funcionalidad
