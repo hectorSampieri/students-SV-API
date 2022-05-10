@@ -1,7 +1,9 @@
 # Code Challenger LaunchX
-Visual Partner-Ship te ha asignado el siguiente proyecto:
-Requerimientos:
+En este proyecto desarrollaremos un API de consulta de acuerdo a una serie de requerimiento solicitadoa por una empresa, es buen ejemplo de lo que tendriamos como una prueba técnica para desarrollador Back-End o como una solicitud de un cliente para integrar nuevas funcionalidades a sus sistemas existentes.
 
+## Requerimiento Original por parte de Visual Partner-Ship 
+
+Requerimientos:
  - Habilitar un endpoint para consultar todos los estudiantes con todos sus campos.
  - Habilitar un endpoint para consultar los emails de todos los estudiantes que tengan certificación *haveCertification*.
  - Habilitar un endpoint para consultar todos los estudiantes que tengan credits mayor a 500.
