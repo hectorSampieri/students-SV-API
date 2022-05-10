@@ -80,5 +80,5 @@ En esta liga se encuentra la documentación de como utilizar los endpoints del A
 
 # Cobertura de lineas de código por las pruebas unitarias
 En esta liga se encuentra la documentación de como se cumple la cobertura de código con pruebas unitarias (100%) .
-[link](https://https://hectorsampieri.github.io/students-SV-API/coverage/lcov-report/)
+[link](https://hectorsampieri.github.io/students-SV-API/coverage/lcov-report/)
 
