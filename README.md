@@ -71,6 +71,8 @@ Desde el navegador abrir la URL:  localhost:3000 con cualquiera de los endpoints
 - */v1/studentsWithCredits* : Lista la información completa de los alumnos que tengan mas de 500 créditos.
 
 # Funcionamiento
+Se muestran los 3 endpoints funcionando desde el navegador:
+
 ![Animation](https://user-images.githubusercontent.com/99348319/167678741-60e2d27d-8c6d-431f-9c63-7ecb6653803b.gif)
 
 
