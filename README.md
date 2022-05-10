@@ -51,10 +51,23 @@ Para cumplir los requerimientos se diseñaron 3 clases
   <li>Apidoc</li>
 </ul>
 
+# Instalación
+npm install
+
+# Para ejecutarlo
+npm run server
+
+# Acceder al servidor para ver la funcionalidad
+Desde el navegador abrir la URL:  localhost:3000 con cualquiera de los endpoints.
+
 # End points
 - */v1/students* : Lista la información completa de todos los estudiantes.
 - */v1/studentsCertificated* : Lista los correos de los alumnos certificados.
 - */v1/studentsWithCredits* : Lista la información completa de los alumnos que tengan mas de 500 créditos.
+
+# Funcionamiento
+![Animation](https://user-images.githubusercontent.com/99348319/167678741-60e2d27d-8c6d-431f-9c63-7ecb6653803b.gif)
+
 
 # Documentación del API
 En esta liga se encuentra la documentación de como utilizar los endpoints del API y ejemplos de uso.
