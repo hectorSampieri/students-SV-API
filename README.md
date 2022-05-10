@@ -55,15 +55,12 @@ Para cumplir los requerimientos se diseñaron 3 clases
 
 # Instalación
 npm install
-
 # Para ejecutar pruebas unitarias
 npm run test
 # Actualizar documentación 
 npm run apidoc
-
 # Para ejecutar el proyecto
 npm run server
-
 # Acceder al servidor para ver la funcionalidad
 Desde el navegador abrir la URL:  localhost:3000 con cualquiera de los endpoints.
 
