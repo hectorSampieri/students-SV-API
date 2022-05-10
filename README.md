@@ -76,4 +76,9 @@ Desde el navegador abrir la URL:  localhost:3000 con cualquiera de los endpoints
 
 # Documentación del API
 En esta liga se encuentra la documentación de como utilizar los endpoints del API y ejemplos de uso.
-[link](https://hectorsampieri.github.io/students-SV-API/)
+[link](https://hectorsampieri.github.io/students-SV-API/apidocs/)
+
+# Cobertura de lineas de código por las pruebas unitarias
+En esta liga se encuentra la documentación de como se cumple la cobertura de código con pruebas unitarias (100%) .
+[link](https://https://hectorsampieri.github.io/students-SV-API/coverage/lcov-report/)
+
